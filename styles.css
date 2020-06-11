@@ -1,0 +1,31 @@
+
+
+
+.main-menu {
+    width: 100%;
+    background: rgb(223, 240, 69);
+    min-height: 20px;
+    padding: 5px;
+    position: fixed;
+    text-align: center;
+  }
+  .menu {
+    display: flex;
+    justify-content: space-around;
+    font-weight: 700;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+.Project {
+    background-color: gray;
+    padding: 20px;
+}
+
+.Project-image {
+    width:  200px;
+    height: 200px;
+    
+}
+
